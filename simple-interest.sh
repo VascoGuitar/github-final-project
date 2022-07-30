@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Vasco Machiavelo
+   # VascoGuitar
 
    # Input:
    # p, principal amount
